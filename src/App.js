@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-		<p> York University School of Continuing Studies </p>
+		<p> York University School of Continuing Studies - Wilson Test </p>
 	    <p> Certificate in DevOps </p>
         <img src={logo} className="App-logo" alt="logo" />
         <ul>
